@@ -13,6 +13,6 @@ module.exports = {
         dbURI : 'mongodb+srv://'+user+':'+pass+'@'+my_url+'?retryWrites=true&w=majority'
     },
     session : {
-        cookieKey : 'rochaksecret'
+        cookieKey : 'secretname'
     }
 }
