@@ -7,16 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon ./app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rochaksharma348/nagarro-ecommerce-app.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rochaksharma348/nagarro-ecommerce-app/issues"
-  },
-  "homepage": "https://github.com/rochaksharma348/nagarro-ecommerce-app#readme",
+  "homepage": "https://github.com/Gopal-001/E-commerce",
   "dependencies": {
     "cookie-session": "^2.0.0",
     "dotenv": "^16.0.1",
